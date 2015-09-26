@@ -41,4 +41,4 @@ Target: Pigeon
 # Other
 Total time spent on project: 49 hours
 
-Possible extensions to this project: Implement bject removal interface (allow user to paint) for region to remove along with implementing target regions to keep.
+Possible extensions to this project: Implement object removal interface (allow user to paint) for region to remove along with implementing target regions to keep.
